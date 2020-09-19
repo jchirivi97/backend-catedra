@@ -141,6 +141,7 @@ public class usuarioPersistence {
 			con.commit();
 			con.close();
 		}
+		
 		catch(Exception ex){
 			Logger.getLogger(usuarioPersistence.class.getName()).log(Level.SEVERE, null, ex);
 		}
