@@ -11,6 +11,7 @@
 	<groupId>prueba.catedra</groupId>
 	<artifactId>project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>project</name>
 	<description>Demo project for Spring Boot</description>
 
